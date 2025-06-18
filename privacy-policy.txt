@@ -1,0 +1,177 @@
+Privacy Policy
+Effective Date: April 30, 2025
+
+This Privacy Policy explains how VPN-FREE ("we," "us," or "our") collects, uses, shares, and protects your information when you access our website (if available), VPN-FREE and VPN-FREE Lite applications (the “Apps”), and all related services (collectively, the “Services”).
+
+The Services are operated by VPN-FREE TECHNOLOGIES PTE. LTD. (the “Company”). This Policy is governed by and construed in accordance with the laws of the Republic of Singapore, excluding its conflict of law rules.
+
+By using our Services, you agree to the practices described in this Privacy Policy and our Terms of Service.
+
+Commitment to User Privacy and No-Log Policy
+VPN-FREE is built on a strict no-log policy. We do not collect, store, or log user activity, browsing history, IP addresses, DNS queries, or connection logs that can be tied back to any individual user.
+
+We only collect minimal information required to:
+
+Provide and maintain the Services,
+
+Manage accounts and subscriptions,
+
+Respond to support inquiries,
+
+Monitor and improve app performance,
+
+Ensure security and compliance.
+
+All collected data is anonymized or pseudonymized wherever applicable and never associated with VPN usage activity.
+
+Information Collected
+We minimize data collection while ensuring essential functionality:
+
+Anonymous Usage Data
+We collect anonymized technical data such as:
+
+Connection success/failure
+
+Country (non-specific to city or IP)
+
+Device model, OS version
+
+Crash and error logs
+
+This helps us troubleshoot, improve network performance, and ensure compatibility.
+
+Account Data
+If account creation is supported, we collect your email address and password, used for authentication, password reset, subscription access, and support.
+
+Payment Data
+If you purchase premium features, we collect:
+
+Email (for account linking)
+
+Subscription status and plan
+
+Transaction ID and payment method
+
+Payment is processed securely via third-party PCI-compliant providers. We do not store full credit card or billing details.
+
+Customer Support
+If you contact us, we may retain your correspondence, email address, and any additional voluntary information provided to assist with your inquiry.
+
+How We Use Your Information
+We process your data for the following purposes:
+
+Operate and maintain the Services
+
+Manage accounts and paid subscriptions
+
+Communicate with you regarding updates or issues
+
+Respond to support requests
+
+Analyze app performance and bugs
+
+Prevent fraud and comply with legal obligations
+
+We do not use your data for profiling, tracking, or behavioral advertising.
+
+Third-Party Services
+To support functionality and analytics, we may integrate third-party providers such as:
+
+Firebase (by Google) – crash and performance analytics
+
+Adjust – app install attribution and ad campaign optimization
+
+Zendesk or Freshdesk – customer support system
+
+AdMob, Unity Ads, Liftoff, InMobi – ad services for free users
+
+These providers may collect non-identifiable technical data as required for their services. All third-party integrations are bound by data protection agreements and are prohibited from collecting or associating VPN-related activity with user identity.
+
+Data Sharing and Transfers
+We may share data only in these limited cases:
+
+Service Providers: Only as needed for services like analytics, support, or payment processing
+
+Business Transfers: In case of merger, acquisition, or reorganization, provided that privacy protection remains intact
+
+Legal Compliance: To comply with lawful requests from regulatory bodies
+
+User Consent: We do not share your information beyond the purposes stated unless you give explicit consent
+
+Cross-border data transfers (if applicable) are protected by standard contractual clauses or equivalent safeguards.
+
+Data Security Measures
+We implement industry-standard security practices including:
+
+Access controls and role-based data access
+
+Encryption of data in transit and (where applicable) at rest
+
+Segregation of sensitive data to prevent cross-linking
+
+Periodic security reviews and vulnerability testing
+
+Incident response procedures to handle any breach
+
+Your Rights
+Depending on your location, you may have the right to:
+
+Access your data
+
+Correct inaccuracies
+
+Delete your account and associated data
+
+Restrict or object to certain data processing
+
+Withdraw consent at any time (for optional activities)
+
+File a complaint with your local data protection authority
+
+To exercise your rights, contact us using the information provided below.
+
+Data Retention
+We retain personal data only for as long as necessary for:
+
+Delivering our Services
+
+Complying with legal or regulatory obligations
+
+Resolving disputes
+
+When data is no longer needed, it is either securely deleted, anonymized, or removed during backup purges.
+
+Region-Specific Notices
+GDPR (EEA and UK)
+For users in the European Economic Area and UK, VPN-FREE complies with the General Data Protection Regulation (GDPR). You may contact us to access, correct, or delete your personal data. We will respond within 30 days.
+
+We may require identity verification to protect your data. Requests to delete or restrict required information may affect your ability to use the Services.
+
+California Privacy Rights (CCPA)
+VPN-FREE does not “sell” user data. Under the California Consumer Privacy Act, California users may request:
+
+Categories of personal information collected
+
+Purpose for collection and use
+
+Access to or deletion of data
+
+Contact us directly to make any such requests.
+
+Children’s Privacy
+Our Services are not intended for children under 13 years old (or the minimum age defined by local law). We do not knowingly collect personal data from children. If we become aware that we’ve collected data from a child without verified parental consent, we will delete it immediately.
+
+Changes to This Policy
+We may occasionally update this Privacy Policy. Any material changes will be posted on our website or notified through the app. Continued use of the Services after changes indicates acceptance of the updated policy.
+
+Contact Us
+For questions, privacy requests, or complaints, contact:
+
+Email: support@vpn-free.app
+
+Data Protection Officer: Cecilia Fung
+
+Email: dataprotection@vpn-free.app
+
+We are committed to responding promptly and transparently in accordance with all applicable privacy laws.
+
